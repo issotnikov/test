@@ -1,0 +1,26 @@
+{ global:
+accept;
+bind;
+bindresvport;
+connect;
+freehostent;
+getaddrinfo;
+gethostbyname;
+gethostbyname2;
+getipnodebyname;
+getpeername;
+getsockname;
+getsockopt;
+listen;
+read;
+readv;
+recv;
+recvfrom;
+recvmsg;
+rresvport;
+send;
+sendmsg;
+sendto;
+write;
+writev;
+local: *; };
